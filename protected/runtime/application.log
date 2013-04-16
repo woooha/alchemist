@@ -1,0 +1,40 @@
+2013/04/15 15:55:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/woooha/Workspaces/www/alchemist/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/woooha/Workspaces/www/alchemist/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/15 15:56:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/woooha/Workspaces/www/alchemist/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/woooha/Workspaces/www/alchemist/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/15 15:56:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/woooha/Workspaces/www/alchemist/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/woooha/Workspaces/www/alchemist/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/15 15:57:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/woooha/Workspaces/www/alchemist/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/woooha/Workspaces/www/alchemist/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/04/16 01:45:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/woooha/Workspaces/www/alchemist/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/woooha/Workspaces/www/alchemist/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/woooha/Workspaces/www/alchemist/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
